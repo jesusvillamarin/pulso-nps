@@ -1,0 +1,12 @@
+.env
+.DS_Store
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.tsbuildinfo
+backend/data/*.db
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
